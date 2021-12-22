@@ -1,10 +1,10 @@
 # CV
-**Denys Minayev**
+***Denys Minayev***
 
-_Telephone number: +(38)066-251-75-03_
-_email: denys.mnv@gmail.com_
-_LinkedIn: https://www.linkedin.com/in/denys-mnv_
-_GitHub: https://github.com/DenverEight8_
+###### _Telephone number: +(38)066-251-75-03_
+###### _email: denys.mnv@gmail.com_
+###### _LinkedIn: [denys-mnv](https://www.linkedin.com/in/denys-mnv)_
+###### _GitHub: [DenverEight8](https://github.com/DenverEight8)_
 
 ## Goal: to become an automation testing engineer 
 
