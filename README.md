@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DenverEight8.github.io/rsschool-cv/cv
