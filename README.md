@@ -1,1 +1,1 @@
-https://DenverEight8.github.io/rsschool-cv/cv
+https://DenverEight8.github.io/rsschool-cv/
