@@ -7,3 +7,13 @@
 * {
     box-sizing: border-box;
   }
+
+.header {
+    border: 1px solid gray;
+}
+.main{
+    border: 1px solid gray;
+}
+.footer {
+    border: 1px solid gray;
+}
