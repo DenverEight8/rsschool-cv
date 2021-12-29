@@ -27,4 +27,20 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
+}
+
+.nav {
+    font-size: bold;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
   }
+.nav-item {
+    font-size: bold;
+}
+.nav-link {
+    color: blue;
+}
